@@ -1,6 +1,6 @@
 # riverpod_sm
 
-A new Flutter project.
+learning material : https://www.youtube.com/watch?v=Zp7VKVhirmw&ab_channel=ResoCoder
 
 ## Getting Started
 
